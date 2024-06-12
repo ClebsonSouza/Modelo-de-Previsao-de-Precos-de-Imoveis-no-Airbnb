@@ -1,7 +1,7 @@
 # Previsao-de-Preco-de-Imovel
 ### Projeto Previsão de Preço de Imóvel
 
-#### Exercício adaptado da Hashtag Treinamentos
+#### *Exercício adaptado da Hashtag Treinamentos
 
 No Airbnb, qualquer indivíduo que possua um quarto ou um imóvel de qualquer tipo (apartamento, casa, chalé, pousada, etc.) pode oferecer seu imóvel para aluguel por diária.
 
